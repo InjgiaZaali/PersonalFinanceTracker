@@ -1,4 +1,4 @@
-Personal Finance Tracker
+**Personal Finance Tracker**
 
 
 **📊 Overview**
@@ -50,6 +50,5 @@ Export: CSV generation for data portability
  Customizable categories and transaction types
  Monthly budget planning and alerts
  Financial visualizations with charts and graphs
- Dark mode and theme customization
  Multi-currency support
  Recurring transaction scheduling
