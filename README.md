@@ -6,7 +6,6 @@
 
 
 Personal Finance Tracker is an elegant desktop application built with Java Swing that simplifies personal finance management through an intuitive graphical interface. Take control of your finances with a comprehensive solution for tracking expenses, monitoring income, and analyzing your financial habits.
-✨ Features
 
 📝 Transaction Management
 
