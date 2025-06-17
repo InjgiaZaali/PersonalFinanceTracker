@@ -1,4 +1,5 @@
 **Personal Finance Tracker**
+![image](https://github.com/user-attachments/assets/0adbbfd8-97d6-412f-980a-7c53e8e3c3e9)
 
 
 **📊 Overview**
